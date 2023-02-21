@@ -14,7 +14,7 @@ const io=socket(server,{
 
 
 app.get('/',(req,res)=>{
-    res.send("Thesis web site")
+    res.send("Thesis web site ppppp")
 });
 server.listen(port, () =>
 {
